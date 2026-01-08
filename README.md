@@ -215,9 +215,6 @@ Edit the `keys` dictionary in `keyinput.py` to map different keys.
 
 For detailed version information, see `requirements.txt`.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
@@ -227,17 +224,12 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 VirtualSteering - Created for gesture-based game control
 
-## Support
-
-If you encounter any issues or have questions:
-1. Check the [Troubleshooting](#troubleshooting) section
-2. Review MediaPipe documentation: https://mediapipe.dev/
-3. Check OpenCV documentation: https://docs.opencv.org/
 
 ## Disclaimer
 
 This project is for educational and personal use. Ensure you have the right to use this in your gaming environment and comply with game terms of service.
 
 ---
+
 
 **Ready to control games with your hands? Start with `python steering.py`!** 🚀
